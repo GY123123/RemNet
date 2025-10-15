@@ -1,0 +1,11 @@
+scikit-learn==1.7.0
+numpy==1.26.4
+opencv-python==4.11.0.86
+matplotlib==3.10.3
+pyts==0.13.0
+tftb==0.2.0
+torch==2.6.0
+torchvision==0.21.0
+tensorboard
+tqdm
+pandas
