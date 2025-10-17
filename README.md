@@ -185,8 +185,8 @@ python train_classifier.py   --model_name=remnet   --image_root data/multi_image
 | **EfficientNet** | 参数高效卷积网络 / Parameter-efficient CNN |
 | **MobileViT** | 轻量Transformer混合网络 / Lightweight hybrid CNN-Transformer |
 | **PINN** | 结合物理约束的神经网络 / Physics-Informed Neural Network |
-| **Vison Transformer** | 基于Transformer的计算机视觉任务 / Transformer architecture to computer vision tasks. ‌|
-| **Vison Mamba** | 基于Mamba的计算机视觉任务 / Mamba architecture to computer vision tasks. ‌|
+| **Vision Transformer** | 基于Transformer的计算机视觉任务 / Transformer architecture to computer vision tasks. ‌|
+| **Vision Mamba** | 基于Mamba的计算机视觉任务 / Mamba architecture to computer vision tasks. ‌|
 | **RemNet (Ours)** | 基于动态路径注意力的多模态融合网络 / Multi-modal fusion network with dynamic pathway attention |
 
 ---
